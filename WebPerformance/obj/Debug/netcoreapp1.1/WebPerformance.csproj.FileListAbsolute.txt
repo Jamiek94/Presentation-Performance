@@ -1,0 +1,14 @@
+C:\Users\Jamie\documents\visual studio 2017\Projects\WebPerformance\WebPerformance\bin\Debug\netcoreapp1.1\WebPerformance.deps.json
+C:\Users\Jamie\documents\visual studio 2017\Projects\WebPerformance\WebPerformance\bin\Debug\netcoreapp1.1\WebPerformance.runtimeconfig.json
+C:\Users\Jamie\documents\visual studio 2017\Projects\WebPerformance\WebPerformance\bin\Debug\netcoreapp1.1\WebPerformance.runtimeconfig.dev.json
+C:\Users\Jamie\documents\visual studio 2017\Projects\WebPerformance\WebPerformance\obj\Debug\netcoreapp1.1\WebPerformance.csprojResolveAssemblyReference.cache
+C:\Users\Jamie\documents\visual studio 2017\Projects\WebPerformance\WebPerformance\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+C:\Users\Jamie\documents\visual studio 2017\Projects\WebPerformance\WebPerformance\obj\Debug\netcoreapp1.1\WebPerformance.AssemblyInfo.cs
+C:\Users\Jamie\documents\visual studio 2017\Projects\WebPerformance\WebPerformance\bin\Debug\netcoreapp1.1\WebPerformance.dll
+C:\Users\Jamie\documents\visual studio 2017\Projects\WebPerformance\WebPerformance\bin\Debug\netcoreapp1.1\WebPerformance.pdb
+C:\Users\Jamie\documents\visual studio 2017\Projects\WebPerformance\WebPerformance\bin\Debug\netcoreapp1.1\Consumer.dll
+C:\Users\Jamie\documents\visual studio 2017\Projects\WebPerformance\WebPerformance\bin\Debug\netcoreapp1.1\Database.dll
+C:\Users\Jamie\documents\visual studio 2017\Projects\WebPerformance\WebPerformance\bin\Debug\netcoreapp1.1\Consumer.pdb
+C:\Users\Jamie\documents\visual studio 2017\Projects\WebPerformance\WebPerformance\bin\Debug\netcoreapp1.1\Database.pdb
+C:\Users\Jamie\documents\visual studio 2017\Projects\WebPerformance\WebPerformance\obj\Debug\netcoreapp1.1\WebPerformance.dll
+C:\Users\Jamie\documents\visual studio 2017\Projects\WebPerformance\WebPerformance\obj\Debug\netcoreapp1.1\WebPerformance.pdb

@@ -1,0 +1,6 @@
+C:\Users\Jamie\documents\visual studio 2017\Projects\WebPerformance\Business\bin\Debug\netcoreapp1.1\Business.deps.json
+C:\Users\Jamie\documents\visual studio 2017\Projects\WebPerformance\Business\bin\Debug\netcoreapp1.1\Business.dll
+C:\Users\Jamie\documents\visual studio 2017\Projects\WebPerformance\Business\bin\Debug\netcoreapp1.1\Business.pdb
+C:\Users\Jamie\documents\visual studio 2017\Projects\WebPerformance\Business\obj\Debug\netcoreapp1.1\Business.AssemblyInfo.cs
+C:\Users\Jamie\documents\visual studio 2017\Projects\WebPerformance\Business\obj\Debug\netcoreapp1.1\Business.dll
+C:\Users\Jamie\documents\visual studio 2017\Projects\WebPerformance\Business\obj\Debug\netcoreapp1.1\Business.pdb

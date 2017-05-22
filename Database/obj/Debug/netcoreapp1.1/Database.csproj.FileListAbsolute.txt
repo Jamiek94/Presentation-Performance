@@ -1,0 +1,7 @@
+C:\Users\Jamie\documents\visual studio 2017\Projects\WebPerformance\Database\bin\Debug\netcoreapp1.1\Database.deps.json
+C:\Users\Jamie\documents\visual studio 2017\Projects\WebPerformance\Database\bin\Debug\netcoreapp1.1\Database.dll
+C:\Users\Jamie\documents\visual studio 2017\Projects\WebPerformance\Database\bin\Debug\netcoreapp1.1\Database.pdb
+C:\Users\Jamie\documents\visual studio 2017\Projects\WebPerformance\Database\obj\Debug\netcoreapp1.1\Database.csprojResolveAssemblyReference.cache
+C:\Users\Jamie\documents\visual studio 2017\Projects\WebPerformance\Database\obj\Debug\netcoreapp1.1\Database.AssemblyInfo.cs
+C:\Users\Jamie\documents\visual studio 2017\Projects\WebPerformance\Database\obj\Debug\netcoreapp1.1\Database.dll
+C:\Users\Jamie\documents\visual studio 2017\Projects\WebPerformance\Database\obj\Debug\netcoreapp1.1\Database.pdb
